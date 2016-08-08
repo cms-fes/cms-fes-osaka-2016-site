@@ -748,44 +748,44 @@ aside.clients {
     font-size: 2.4rem;
     font-weight: bold; }
 
-/* !:contact ---------------- */
+/* !:access ---------------- */
 /* line 770, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-section#contact {
+section#access {
   background-color: #231815;
   background-position: center;
   background-repeat: no-repeat; }
   /* line 774, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-  section#contact .section-heading {
+  section#access .section-heading {
     color: #fff; }
     /* line 776, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-    section#contact .section-heading span {
+    section#access .section-heading span {
       display: none; }
   /* line 780, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-  section#contact .form-group {
+  section#access .form-group {
     margin-bottom: 25px; }
     /* line 782, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-    section#contact .form-group input, section#contact .form-group textarea {
+    section#access .form-group input, section#access .form-group textarea {
       padding: 20px; }
     /* line 785, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-    section#contact .form-group input.form-control {
+    section#access .form-group input.form-control {
       height: auto; }
     /* line 788, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-    section#contact .form-group textarea.form-control {
+    section#access .form-group textarea.form-control {
       height: 236px; }
   /* line 792, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-  section#contact .form-control:focus {
+  section#access .form-control:focus {
     border-color: #fed136;
     box-shadow: none; }
   /* line 796, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-  section#contact::-webkit-input-placeholder, section#contact:-moz-placeholder, section#contact::-moz-placeholder, section#contact:-ms-input-placeholder {
+  section#access::-webkit-input-placeholder, section#access:-moz-placeholder, section#access::-moz-placeholder, section#access:-ms-input-placeholder {
     text-transform: uppercase;
     font-weight: 700;
     color: #bbb; }
   /* line 801, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-  section#contact .text-danger {
+  section#access .text-danger {
     color: #e74c3c; }
   /* line 804, /Users/atsushi/Desktop/git/cms-fes-osaka-2016-site/scss/cmsfes.scss */
-  section#contact p {
+  section#access p {
     color: #fff; }
 
 @media (min-width: 768px) {
